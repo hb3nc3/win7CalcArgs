@@ -1,4 +1,6 @@
 # README
+
+A simple vbs script to start the Windows Calculator in a specific mode.
 ## Usage
 
 Create a shortcut for the calc.vbs, and add an argument (0,1,2), where
